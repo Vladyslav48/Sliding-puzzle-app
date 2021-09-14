@@ -1,8 +1,7 @@
 {
   "name": "sliding-puzzle-app",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://vladyslav48.github.io/sliding-puzzle-app/",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.13.0",
     "@testing-library/react": "^11.2.7",
@@ -15,16 +14,14 @@
     "react-dom": "^17.0.2",
     "react-motion": "^0.5.2",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.3",
+    "react-scripts": "^4.0.3",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build",
-    "predeploy": "npm run build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
