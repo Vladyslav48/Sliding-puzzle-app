@@ -3,6 +3,8 @@ import 'firebase/storage'
 import 'firebase/firestore';
 import "firebase/auth"
 
+
+
 //Connects app to the Firebase
 const app = firebase.initializeApp({
     apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
