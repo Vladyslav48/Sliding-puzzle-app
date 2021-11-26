@@ -1,10 +1,24 @@
-# Getting Started with Create React App
+# Sliding Puzzle App
+
+## Description
+
+Сanonical sliding puzzle game with the ability for the user to upload his own pictures to play with.
+
+## Technologies
+
+React, React Hooks, Bootstrap, JavaScript, HTML, CSS, Firebase(Backend: Authentification, Firestore Database, Firebase Storage).
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Installs all the necessary dependencies based on the package.json file.
 
 ### `npm start`
 
