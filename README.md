@@ -1,4 +1,4 @@
-# Sliding Puzzle App
+# Sliding Puzzle Game
 
 ## Description
 
