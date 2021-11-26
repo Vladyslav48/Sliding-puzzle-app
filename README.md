@@ -6,7 +6,8 @@
 
 ## Technologies
 
-React, React Hooks, Bootstrap, JavaScript, HTML, CSS, Firebase(Backend: Authentification, Firestore Database, Firebase Storage).
+React, React Hooks, Bootstrap, JavaScript, HTML, CSS,
+Firebase(Backend: Authentification, Firestore Database, Firebase Storage).
 
 ## Getting Started with Create React App
 
